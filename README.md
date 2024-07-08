@@ -1,1 +1,5 @@
 # Madhav-s-E-commerce-Sales
+Madhav_Store_PowerBI_Dashboard
+Professional Power Bi Dashboard
+
+Complete Power BI project using retail store sales data
